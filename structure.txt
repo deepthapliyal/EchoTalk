@@ -1,0 +1,8 @@
+src
+├── App.js
+├── components
+│   ├── ConnectionManager.js
+│   ├── ConnectionState.js
+│   ├── MyEvents.js
+│   └── MyForm.js
+└── socket.js
